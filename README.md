@@ -1,2 +1,3 @@
 # base16-synth-midnight-scheme
-Synthwave schemes
+A scheme inspired by the album cover for "Nocturnal" by The Midnight.
+
